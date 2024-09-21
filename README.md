@@ -11,5 +11,5 @@ Here are some things about me!
 - 👩🏽‍💻 I’m looking for help with Technical Interview prep.
 - 💭 Ask me about Project Management, Data Analytics, and AI/ ML
 - 💌 How to reach me: **LinkedIn** - @azaleabolden
-- 🌺 Pronouns: She/Hers
+- 🌺 Pronouns: _She/Hers_
   
